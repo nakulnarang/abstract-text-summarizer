@@ -1,0 +1,8 @@
+# Exclude macOS system files and pycharm config
+.DS_Store
+*.idea/
+*.ipynb_checkpoints/
+*stanford-corenlp-4.5.7/
+*cnn_stories_tokenized/
+*cnn/
+*dailymail/
